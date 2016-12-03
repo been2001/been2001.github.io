@@ -1,0 +1,17 @@
+body {
+	background-color: #FFF8DC;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+.adi {
+	margin-bottom: -21px;
+}
+img {
+	height: 255px;
+	width: 255px;
+	transform: rotate(90deg);
+	float: right;
+	border: 5px solid #FFF8DC;
+	border-radius: 15px;
+	box-shadow: 10px 6px 12px #888888;
+}
