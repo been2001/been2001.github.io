@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+
+	<head> 
+		<meta chareset="utf=8"/>	
+		<title>My first HMTL5 practice</title>
+<h1>New Years day with friends</h1>
+
+	</head>
+<body>
+
+<p> Feeling good with Abukar and Murshad on New Year day!</br>
+Murshad talked about the beauty of the day 
+ <p>
+<p> Abukar talked about what happen last night on Mariah Carey was bad Sync microphone and unacceptable </br> and here is the link 
+<a href="http://www.nytimes.com/2017/01/01/arts/music/mariah-carey-new-years-eve-times-square.html?_r=0">google</a>. </br>Murshad said she was one of my best performers, really felt bad and pointed out some of her best looking pictures.</br>
+He also said, this was a big mistake by the technical team and they should be accountable. However, here is my favorite picture</br>.
+<img src="HotMariah.jpg" alt="HotMariah img" heigt="350"width="700"/>
+
+<p> Murshad did not stop it their but decided to share with us the song she had with the problem (Emotions), which we thought</br>
+was very interesting and popular around the world. here is the song with audio fromm the youtube.</p>
+
+
+<video controls autoplay loop>
+	<source src="<iframe width="640" height="360" src="https://www.youtube.com/embed/1exzZhpVjf8" frameborder="0" allowfullscreen></iframe>" type="video/youtube"/>
+</video>
+
+
+
+</body>
+</html>
