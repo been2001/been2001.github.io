@@ -31,7 +31,8 @@ h2:hover {
 .nav {
 	background-color: #660000;
 	list-style: none;
-	text-align: center;	padding:20px;
+	text-align: center;	padding:40px;
+	border-radius: 20px;
 }
 
 .nav > li {
