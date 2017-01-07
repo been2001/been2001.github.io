@@ -24,5 +24,13 @@ div.contact {
 	background: #ff8000;
 }
 h2:hover #skills {
-	color: blue;
+	color: #0040ff;
+}
+
+h2:hover #education{
+	color: #0040ff;
+}
+
+h2:hover #employment {
+	color: #0040ff;
 }
