@@ -18,10 +18,12 @@ img {
 div.contact {
 	border: 1px solid #4000ff;
 	background: #b34d4d;
+	border-radius: 20px;
 }
 #summary {
 	border: 1px solid #bf4040;
 	background: #ff8000;
+	border-radius: 20px;
 }
 h2:hover #skills {
 	color: #0040ff;
