@@ -15,8 +15,9 @@ img {
 	border-radius: 15px;
 	box-shadow: 10px 6px 12px #888888;
 }
-.contact {
-	border: 1px solid #0080ff;
+div.contact {
+	border: 1px solid #4000ff;
+	background: brown;
 }
 #summary {
 	border: 1px solid #bf4040;
