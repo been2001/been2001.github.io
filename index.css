@@ -31,7 +31,7 @@ h2:hover {
 .nav {
 	background-color: #660000;
 	list-style: none;
-	text-align: center;	padding:40px;
+	text-align: center;	padding:20px;
 }
 
 .nav > li {
@@ -42,7 +42,7 @@ h2:hover {
 
 .nav > li > a {
 	text-decoration:none;
-	color: #ffffff
+	color: #ff0000
 	}
 	
 .nav > li > a:hover {
