@@ -23,6 +23,6 @@ div.contact {
 	border: 1px solid #bf4040;
 	background: #ff8000;
 }
-#skills:hover {
+h2:hover #skills {
 	color: blue;
 }
