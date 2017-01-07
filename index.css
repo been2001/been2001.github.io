@@ -30,22 +30,25 @@ h2:hover {
 }
 .nav {
 	background-color: #660000;
-	text-align: center;
 	list-style: none;
-	padding:40px;
+	text-align: center;	padding:40px;
 }
-.nav > li > a:hover {
-	color:#00ffbf;
-	
-	
+
+.nav > li {
+	display: inline-block;
+	padding:50px
 }
+
+
 .nav > li > a {
 	text-decoration:none;
 	color: #ffffff
 	}
 	
-.nav > li {
-	display: inline-block;
-	padding:50px
+.nav > li > a:hover {
+	color:#00ffbf;
+	
+	
 }
+
 	
