@@ -66,3 +66,9 @@ h2:hover {
 .selected {
 	font-weight:bold
 }
+
+#nav ul {
+	list-style: none;
+}
+	
+
