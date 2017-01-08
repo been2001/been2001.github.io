@@ -28,39 +28,29 @@ div.contact {
 h2:hover {
     background-color: #0000ff;
 }
-div.nav {
+.nav {
 	background-color: #ffb3b3;
-	border-radius: 20px;	
-	color: #000000;
 	list-style: none;
 	text-align: left;	
 	padding: 20px;
-	
-	
-		
+	border:1px solid #ff0080
 }
-
-div.nav > li {
+.nav > li {
 	display: inline-block;
 	padding: 40px;
 	font-size: 12px;
 	color:#000000;
-	
-	
-	
-	
 }
 
 
-div.nav > li > a {
+.nav > li > a {
 	text-decoration:none;
-	color: #000000;
-	border-radius: 20px;
-		
+	color:#000000;
+	text-align:center 
 }
 	
-div.nav > li > a:hover {
-	color:#00ffbf;
+.nav > li > a:hover {
+	background-color:#00ffbf;
 	
 }
 
