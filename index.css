@@ -34,12 +34,15 @@ h2:hover {
 	text-align: left;	
 	padding: 20px;
 	border:1px solid #ff0080
+
+	
 }
 .nav > li {
 	display: inline-block;
 	padding: 40px;
 	font-size: 12px;
 	color:#000000;
+	border-radius: 20px;
 }
 
 
@@ -47,6 +50,7 @@ h2:hover {
 	text-decoration:none;
 	color:#000000;
 	text-align:center 
+
 }
 	
 .nav > li > a:hover {
