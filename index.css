@@ -26,14 +26,15 @@ div.contact {
 	border-radius: 20px;
 }
 h2:hover {
-    background-color: #00bfff;
+    background-color: #0000ff;
 }
 .nav {
 	background-color: #ffb3b3;
 	color: #000000;
 	list-style: none;
-	text-align: right;	
+	text-align: center;	
 	padding: 20px;
+	border-radius: 20px;
 	
 		
 }
@@ -42,6 +43,9 @@ h2:hover {
 	display: inline-block;
 	padding: 0 25px 0 25px;
 	font-size: 12px;
+	border-radius: 20px;
+	
+	
 	
 	
 }
