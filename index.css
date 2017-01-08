@@ -67,7 +67,7 @@ h2:hover {
 	font-weight:bold
 }
 
-#nav ul {
+.nav > ul > a {
 	list-style: none;
 }
 	
