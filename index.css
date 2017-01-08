@@ -42,7 +42,7 @@ h2:hover {
 
 	
 .nav > li {
-	display: inline;
+	display: inline-block;
 	padding: 15px;
 	font-size: 12px;
 	color:#000000;
