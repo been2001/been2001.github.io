@@ -63,6 +63,6 @@ h2:hover {
 }
 
 	
-#nav.selected {
+.selected {
 	font-weight:bold
 }
