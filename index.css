@@ -38,6 +38,9 @@ h2:hover {
 
 	
 }
+
+
+	
 .nav > li {
 	display: inline-block;
 	padding: 15px;
@@ -60,3 +63,6 @@ h2:hover {
 }
 
 	
+.selected {
+	font-weight:bold
+}
