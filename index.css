@@ -28,7 +28,7 @@ div.contact {
 h2:hover {
     background-color: #00ffff;
 }
-.nav {
+.nav > ul {
 	background-color: #ffb3b3;
 	list-style: none;
 	text-align: left;	
