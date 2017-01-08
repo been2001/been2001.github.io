@@ -18,7 +18,7 @@ img {
 div.contact {
 	border: 1px solid #b34d4d;
 	background: #b34d4d;
-	border-radius: 15px;
+	border-radius: 20px;
 }
 #summary {
 	border: 1px solid #bf4040;
@@ -30,20 +30,21 @@ h2:hover {
 }
 .nav {
 	background-color: #ffb3b3;
+	border-radius: 20px;	
 	color: #000000;
 	list-style: none;
-	text-align: center;	
+	text-align: left;	
 	padding: 20px;
-	border-radius: 20px;
+	
 	
 		
 }
 
 .nav > li {
 	display: inline-block;
-	padding: 0 25px 0 25px;
+	padding: 40px;
 	font-size: 12px;
-	border-radius: 20px;
+	color:#000000;
 	
 	
 	
