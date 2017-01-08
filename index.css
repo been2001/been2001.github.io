@@ -28,7 +28,7 @@ div.contact {
 h2:hover {
     background-color: #00ffff;
 }
-.nav > ul {
+.nav  {
 	background-color: #ffb3b3;
 	list-style: none;
 	text-align: left;	
@@ -60,6 +60,10 @@ h2:hover {
 .nav > li > a:hover {
 	background-color:#00ffbf;
 	
+}
+
+#nav ul {
+	list-style-type: none;
 }
 	
 .selected {
