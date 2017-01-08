@@ -26,20 +26,20 @@ div.contact {
 	border-radius: 20px;
 }
 h2:hover {
-    background-color: #0000ff;
+    background-color: #00ffff;
 }
 .nav {
 	background-color: #ffb3b3;
 	list-style: none;
 	text-align: left;	
-	padding: 20px;
+	padding: 15px;
 	border:1px solid #ff0080
 
 	
 }
 .nav > li {
 	display: inline-block;
-	padding: 20px;
+	padding: 15px;
 	font-size: 12px;
 	color:#000000;
 	border-radius: 20px;
