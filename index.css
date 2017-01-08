@@ -30,7 +30,7 @@ h2:hover {
 }
 .nav  {
 	background-color: #ffb3b3;
-	list-style: none;
+	list-style-type: none;
 	text-align: left;	
 	padding: 15px;
 	border:1px solid #ff0080;
@@ -62,7 +62,7 @@ h2:hover {
 	
 }
 
-#nav ul {
+.nav > ul {
 	list-style-type: none;
 }
 	
